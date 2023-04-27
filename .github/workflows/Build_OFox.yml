@@ -1,4 +1,4 @@
-name: OFOX Build
+name: OFOXBuild
 on:
   workflow_dispatch:
     inputs:
